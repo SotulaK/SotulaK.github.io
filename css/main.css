@@ -1,0 +1,34 @@
+.t{
+	background-image: url(../img/sky.jpg);
+	height: 300px;
+	width: auto;
+	background-size: cover;
+	background-position: center;
+	margin-top:  15px;	
+}
+h1{
+	color: #fff;
+	font-size: 4em;
+	text-align: center;
+	margin-top: 107px;
+}
+.m{
+	margin-top: 17px;
+}
+.card-title{
+	text-align: center;
+}
+.card-text{
+	text-align: center;
+}
+.btn {
+	background-color: #efa7fa;
+	border-color: #efa7fa;
+	margin-left: : 30px;
+}
+.card{
+	text-align: center;
+}
+body{
+	background-color: #eae8eb;
+}

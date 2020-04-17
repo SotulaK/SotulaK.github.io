@@ -1,0 +1,47 @@
+.top{
+	background-image: url(..//img/top.01.jpg);
+	height: 300px;
+	width: auto;
+	background-size: cover;
+	background-position: center;
+	margin-top:  15px;		
+}
+.main-title{
+    margin: 130px 360px;
+    color: #fff
+}
+
+section{
+	margin: 30px;
+}
+.second-title{
+	margin-left: 70px;
+	padding: 15px;
+}
+.first-text{
+    text-align: center;
+    font-size: 18px;
+}
+.ancor{
+	background-color: #a0cc95;
+	padding: 7px 13px;
+	color: #fff;
+	margin-left: 90px;
+	border-radius: 5px;
+	
+}	
+.third-title{
+	margin-left: 110px;
+	padding: 15px;
+}	
+.second-text{
+	text-align: center;
+    font-size: 18px;
+}	
+.ancore2{
+    background-color: #a0cc95;
+	padding: 7px 13px;
+	color: #fff;
+	border-radius: 5px;
+	
+}								
